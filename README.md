@@ -34,7 +34,7 @@ print("The number of words are in the file is ",num)
 
 ### OUTPUT:
 
-![alt text](<o1 (2).png>)
+![alt text](<Screenshot 2024-05-12 173136.png>)
 
 
 ## RESULT:
