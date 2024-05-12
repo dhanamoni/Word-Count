@@ -21,7 +21,7 @@ End the program
 ## PROGRAM:
 ~~~
 program to find the number of words in a text file
-Developed by : Monika.
+Developed by : Monika.D
 Register number : 212223240096
 
 num=0
